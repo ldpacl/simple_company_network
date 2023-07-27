@@ -28,15 +28,15 @@ New subnet mask = 255.255.255.128
 
 
 ACCOUNTS
-Subnet mask: 255.255.255.128
-Network ID: 192.168.40.0
-Address range: 192.168.40.1 to 192.168.40.126
-Broadcast Address: 192.168.40.127
+.Subnet mask: 255.255.255.128
+.Network ID: 192.168.40.0
+.Address range: 192.168.40.1 to 192.168.40.126
+.Broadcast Address: 192.168.40.127
 
 DELIVERY
-Subnet mask: 255.255.255.128
-Network ID: 192.168.40.128
-Address range: 192.168.40.129 to 192.168.40.254
-Broadcast Address: 192.168.40.255
+.Subnet mask: 255.255.255.128
+.Network ID: 192.168.40.128
+.Address range: 192.168.40.129 to 192.168.40.254
+.Broadcast Address: 192.168.40.255
 
 Configure the router and end devices using the above subnet.
